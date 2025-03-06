@@ -64,3 +64,7 @@ Replace the email and password in the script:
 store.connect("imap.gmail.com", "your-email@gmail.com", "your-app-password");
 
 4️⃣ Run the Project
+
+👨‍💻 Contributors
+
+Mohamed A Taha - My Profile:/mohamedpyth
