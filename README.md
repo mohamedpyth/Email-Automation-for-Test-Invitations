@@ -68,3 +68,6 @@ store.connect("imap.gmail.com", "your-email@gmail.com", "your-app-password");
 👨‍💻 Contributors
 
 Mohamed A Taha - My Profile:/mohamedpyth
+
+Support & Contact
+"For any issues, feel free to contact me at mohamedtahahdic123@gmail.com."
